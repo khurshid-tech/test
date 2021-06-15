@@ -1,1 +1,3 @@
-<?php echo "alam";  ?>
+<?php echo "alam";
+	echo 'git';
+  ?>
